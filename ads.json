@@ -2,18 +2,6 @@
   "ads": [
     {
       "order": 1,
-      "package_id": "com.lightside.rainbowunicorns",
-      "icon": "https://github.com/enckrumlofj/adsColorpix/raw/master/Icon%20unicorn2.png",
-      "name": "Unicorns"
-    },
-    {
-      "order": 2,
-      "package_id": "com.twodtwob.voxelbuilder",
-      "icon": "https://github.com/enckrumlofj/adsColorpix/raw/master/VoxelBuilder.png",
-      "name": "Voxel build"
-    },
-    {
-      "order": 3,
       "package_id": "com.twodtwob.polymania",
       "icon": "https://github.com/enckrumlofj/adsColorpix/raw/master/6.png",
       "name": "Poly mania"
