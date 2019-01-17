@@ -11,6 +11,12 @@
       "package_id": "com.twodtwob.voxelbuilder",
       "icon": "https://github.com/enckrumlofj/adsColorpix/raw/master/VoxelBuilder.png",
       "name": "Voxel build"
+    },
+    {
+      "order": 3,
+      "package_id": "com.twodtwob.polymania",
+      "icon": "https://github.com/enckrumlofj/adsColorpix/raw/master/6.png",
+      "name": "Voxel build"
     }
   ]
 }
